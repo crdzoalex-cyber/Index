@@ -107,7 +107,7 @@
 </head>
 <body>
 
-  <audio id="miMusica" src="musica.mp3" preload="auto"></audio>
+  <audio id="miMusica" src="https://raw.githubusercontent.com/crdzoalex-cyber/Index/main/mondamusic-lofi-lofi-girl-lofi-chill-512853.mp3" preload="auto"></audio>
     <div id="screen1" class="container">
         <h1>¡Buen día!</h1>
         
@@ -134,6 +134,11 @@
         <div style="font-size: 50px; margin-top: 20px;">🌼</div>
     </div>
 
+  <p style="font-size: 0.8rem; margin-top: 50px;"> 
+    <a href="https://github.com/tu-usuario" target="_blank" style="color: #fcc419; text-decoration: none; font-weight: bold;">
+       
+    </a>
+</p>
     <script>
         function openFlower() {
     const music = document.getElementById('miMusica');
